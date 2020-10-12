@@ -1,6 +1,6 @@
 """
 	* Projeto: Cifra de César 
-	* Autor: Joyce Claine Marcos Monteiro 
+	* Autor: Joyce Claine e Marcos Monteiro 
 	* Dados: 10/10/2020
 	* Versao: 1.0
 	* Data da ultima modificao: 10/10/2020
