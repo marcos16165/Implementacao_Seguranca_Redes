@@ -21,7 +21,7 @@ alfabeto = ['a', 'b', 'c', 'd', 'e', 'f', 'g',
 
 print('********** CIFRA DE CÉSAR **********')
 #Definindo quantidade de rotacoes
-rotacoes = int(input("\nDigite a quantidade de rotações: "))
+rotacoes = 3
 
 #Mensagem que sera cifrada 
 frase = input("Digite a mensagem(Apenas letras): ")  
