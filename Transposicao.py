@@ -120,7 +120,7 @@ for i in range(len(lista_chave)):
     lista_chave[index] = None
     minimo = 1000
 
-print(vetor)
-#for i in range(len(v)):
-#    print(lista_frase[v[i]])
+#print(vetor)
+for i in range(len(v)):
+    print(lista_frase[v[i]])
 
